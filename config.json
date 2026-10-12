@@ -1,0 +1,14 @@
+{
+  "database": "Zertrix MTS Data",
+  "notes": [
+    "shells.json is extracted from ammo module data",
+    "weapons.json and vehicles.json reflect a snapshot of observed spawned vehicles, not an exhaustive catalog",
+    "observedAttributes are snapshot values; do not treat as universal weapon constants",
+    "Live loaded ammunition must be read from the game; this JSON cannot provide live state"
+  ],
+  "schemaVersion": 1,
+  "source": "Local user-provided MTS module dumps and vehicle metadata",
+  "units": {
+    "muzzleSpeed": "m/s"
+  }
+}

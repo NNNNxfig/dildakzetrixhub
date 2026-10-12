@@ -1,0 +1,205 @@
+{
+  "105mm JSW": {
+    "ammoNames": [
+      "M416",
+      "Type 75",
+      "Type 91",
+      "Type 93"
+    ],
+    "observedAttributes": {
+      "RackSorting": true,
+      "Recoil": 30000,
+      "loadOverride": 5.5
+    }
+  },
+  "105mm M68A1": {
+    "ammoNames": [
+      "M393A2",
+      "M456A2",
+      "M833"
+    ],
+    "observedAttributes": {
+      "RackSorting": 6,
+      "Recoil": 40000,
+      "loadOverride": 5.3
+    }
+  },
+  "12.7mm KORD": {
+    "ammoNames": [
+      "12.7mm API-T"
+    ],
+    "observedAttributes": {}
+  },
+  "12.7mm M2": {
+    "ammoNames": [
+      "API-T"
+    ],
+    "observedAttributes": {}
+  },
+  "12.7mm NSVT": {
+    "ammoNames": [
+      "12.7mm API-T"
+    ],
+    "observedAttributes": {}
+  },
+  "125mm 2A46M": {
+    "ammoNames": [
+      "3BK18M",
+      "3BM42",
+      "3OF26",
+      "9M119"
+    ],
+    "observedAttributes": {
+      "RackSorting": 6,
+      "Recoil": 40000,
+      "loadOverride": 6.8
+    }
+  },
+  "125mm 2A46M-1": {
+    "ammoNames": [
+      "3BK18M",
+      "3BM42",
+      "3OF26",
+      "9M112"
+    ],
+    "observedAttributes": {
+      "RackSorting": 6,
+      "Recoil": 40000,
+      "loadOverride": 6
+    }
+  },
+  "125mm 2A46M-5": {
+    "ammoNames": [
+      "3BK18M",
+      "3BM42",
+      "3OF26 PD",
+      "3OF26 VT",
+      "9M119"
+    ],
+    "observedAttributes": {
+      "RackSorting": 6,
+      "Recoil": 40000,
+      "loadOverride": 6.8
+    }
+  },
+  "125mm 2A46MS": {
+    "ammoNames": [
+      "3BK12M",
+      "3OF26",
+      "P99 TAPNA"
+    ],
+    "observedAttributes": {
+      "RackSorting": 6,
+      "Recoil": 40000,
+      "loadOverride": 6.8
+    }
+  },
+  "25mm M242 Bushmaster": {
+    "ammoNames": [
+      "M791",
+      "M792"
+    ],
+    "observedAttributes": {
+      "Recoil": 1000,
+      "loadOverride": 10
+    }
+  },
+  "30mm 2A42": {
+    "ammoNames": [
+      "3UBR8",
+      "3UOF8"
+    ],
+    "observedAttributes": {
+      "loadOverride": 10
+    }
+  },
+  "30mm 2A72": {
+    "ammoNames": [
+      "3UBR8",
+      "3UOF8"
+    ],
+    "observedAttributes": {
+      "Recoil": 1500,
+      "loadOverride": 10
+    }
+  },
+  "30mm AG-30": {
+    "ammoNames": [
+      "VOG-17M"
+    ],
+    "observedAttributes": {
+      "loadOverride": 4
+    }
+  },
+  "30mm TK VZ.95": {
+    "ammoNames": [
+      "3UOF8",
+      "M929"
+    ],
+    "observedAttributes": {
+      "loadOverride": 10
+    }
+  },
+  "7.62mm M240": {
+    "ammoNames": [
+      "AP"
+    ],
+    "observedAttributes": {}
+  },
+  "7.62mm PKT": {
+    "ammoNames": [
+      "AP"
+    ],
+    "observedAttributes": {
+      "Recoil": 1500
+    }
+  },
+  "7.62mm Type 74": {
+    "ammoNames": [
+      "AP"
+    ],
+    "observedAttributes": {}
+  },
+  "9M113 Konkurs": {
+    "ammoNames": [
+      "9M113"
+    ],
+    "observedAttributes": {
+      "loadOverride": 7
+    }
+  },
+  "9M120 Ataka": {
+    "ammoNames": [
+      "9M120-1",
+      "9M120-1F"
+    ],
+    "observedAttributes": {
+      "loadOverride": "8"
+    }
+  },
+  "BGM-71C I-TOW": {
+    "ammoNames": [
+      "I-TOW"
+    ],
+    "observedAttributes": {
+      "RackSorting": 7,
+      "loadOverride": 0
+    }
+  },
+  "Flares": {
+    "ammoNames": [
+      "Flares"
+    ],
+    "observedAttributes": {
+      "Recoil": 0
+    }
+  },
+  "Smoke Grenade": {
+    "ammoNames": [
+      "Smoke"
+    ],
+    "observedAttributes": {
+      "loadOverride": 0
+    }
+  }
+}

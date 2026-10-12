@@ -1,0 +1,171 @@
+{
+  "BMP-2": {
+    "tankIDs": [
+      31
+    ],
+    "weapons": [
+      "30mm 2A42",
+      "7.62mm PKT",
+      "9M113 Konkurs",
+      "Smoke Grenade"
+    ]
+  },
+  "BTR-82A": {
+    "tankIDs": [
+      49
+    ],
+    "weapons": [
+      "30mm 2A72",
+      "7.62mm PKT",
+      "Smoke Grenade"
+    ]
+  },
+  "GAZ Tigr M": {
+    "tankIDs": [
+      77,
+      78
+    ],
+    "weapons": [
+      "30mm AG-30",
+      "7.62mm PKT",
+      "Smoke Grenade"
+    ]
+  },
+  "Humvee": {
+    "tankIDs": [
+      192,
+      193
+    ],
+    "weapons": [
+      "12.7mm M2"
+    ]
+  },
+  "Lada": {
+    "tankIDs": [
+      199
+    ],
+    "weapons": []
+  },
+  "M1 Abrams": {
+    "tankIDs": [
+      53,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "weapons": [
+      "105mm M68A1",
+      "12.7mm M2",
+      "7.62mm M240",
+      "Smoke Grenade"
+    ]
+  },
+  "M113": {
+    "tankIDs": [
+      29
+    ],
+    "weapons": [
+      "12.7mm M2"
+    ]
+  },
+  "M2A3": {
+    "tankIDs": [
+      79
+    ],
+    "weapons": [
+      "25mm M242 Bushmaster",
+      "7.62mm M240",
+      "BGM-71C I-TOW",
+      "Smoke Grenade"
+    ]
+  },
+  "M939": {
+    "tankIDs": [
+      31
+    ],
+    "weapons": []
+  },
+  "Mi-8AMTSh": {
+    "tankIDs": [
+      90
+    ],
+    "weapons": [
+      "Flares"
+    ]
+  },
+  "Shturm-SM": {
+    "tankIDs": [
+      35
+    ],
+    "weapons": [
+      "9M120 Ataka"
+    ]
+  },
+  "T-72B (1989)": {
+    "tankIDs": [
+      45,
+      46,
+      47
+    ],
+    "weapons": [
+      "12.7mm NSVT",
+      "125mm 2A46M",
+      "7.62mm PKT",
+      "Smoke Grenade"
+    ]
+  },
+  "T-72M2": {
+    "tankIDs": [
+      6
+    ],
+    "weapons": [
+      "125mm 2A46MS",
+      "30mm TK VZ.95",
+      "7.62mm PKT",
+      "Smoke Grenade"
+    ]
+  },
+  "T-80BV": {
+    "tankIDs": [
+      86
+    ],
+    "weapons": [
+      "12.7mm NSVT",
+      "125mm 2A46M-1",
+      "7.62mm PKT",
+      "Smoke Grenade"
+    ]
+  },
+  "T-90A": {
+    "tankIDs": [
+      2
+    ],
+    "weapons": [
+      "12.7mm KORD",
+      "125mm 2A46M-5",
+      "7.62mm PKT",
+      "Smoke Grenade"
+    ]
+  },
+  "Type 16 MCV": {
+    "tankIDs": [
+      18
+    ],
+    "weapons": [
+      "105mm JSW",
+      "12.7mm M2",
+      "7.62mm Type 74",
+      "Smoke Grenade"
+    ]
+  },
+  "UAZ-469": {
+    "tankIDs": [
+      136,
+      138,
+      139
+    ],
+    "weapons": []
+  }
+}

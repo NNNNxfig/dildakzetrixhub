@@ -1,0 +1,2153 @@
+{
+  ".50 Cal M2": {
+    "API-T": {
+      "muzzleSpeed": 929.0
+    }
+  },
+  ".50 Cal M3P": {
+    "API-T": {
+      "muzzleSpeed": 929.0
+    }
+  },
+  "10.5 cm KwK L/68": {
+    "PzGr 40": {
+      "muzzleSpeed": 1150.0
+    },
+    "PzGr. 39": {
+      "muzzleSpeed": 1005.0
+    },
+    "Sprgr. L/4.4": {
+      "muzzleSpeed": 900.0
+    }
+  },
+  "100 mm 2A70": {
+    "3OF32": {
+      "muzzleSpeed": 250.0
+    },
+    "3OF70": {
+      "muzzleSpeed": 355.0
+    },
+    "3OF70-1": {
+      "muzzleSpeed": 355.0
+    },
+    "9M117": {
+      "muzzleSpeed": 370.0
+    },
+    "9M117M1": {
+      "muzzleSpeed": 400.0
+    }
+  },
+  "100 mm D-10S": {
+    "BR-412B": {
+      "muzzleSpeed": 895.0
+    },
+    "OF-412": {
+      "muzzleSpeed": 785.0
+    }
+  },
+  "100 mm D-10T": {
+    "3BK-5": {
+      "muzzleSpeed": 900.0
+    },
+    "3BM20": {
+      "muzzleSpeed": 1430.0
+    },
+    "BR-412B": {
+      "muzzleSpeed": 895.0
+    },
+    "BR-412D": {
+      "muzzleSpeed": 887.0
+    },
+    "M309": {
+      "muzzleSpeed": 1430.0
+    },
+    "OF-412": {
+      "muzzleSpeed": 900.0
+    }
+  },
+  "100 mm D-10T2S": {
+    "3BK17M": {
+      "muzzleSpeed": 1085.0
+    },
+    "3BM-8": {
+      "muzzleSpeed": 1415.0
+    },
+    "9M117": {
+      "muzzleSpeed": 370.0
+    },
+    "BR-412D": {
+      "muzzleSpeed": 887.0
+    },
+    "OF-412": {
+      "muzzleSpeed": 900.0
+    }
+  },
+  "100 mm SB-10S": {
+    "9M117": {
+      "muzzleSpeed": 370.0
+    },
+    "BR-412D": {
+      "muzzleSpeed": 887.0
+    },
+    "OF-412": {
+      "muzzleSpeed": 900.0
+    }
+  },
+  "100 mm ZPL04": {
+    "3OF70": {
+      "muzzleSpeed": 355.0
+    },
+    "3OF70-1": {
+      "muzzleSpeed": 355.0
+    },
+    "APS03": {
+      "muzzleSpeed": 370.0
+    }
+  },
+  "105 mm Giat G2": {
+    "OCC 105 F1": {
+      "muzzleSpeed": 1000.0
+    },
+    "OE 105 F1 Mle.60": {
+      "muzzleSpeed": 700.0
+    },
+    "OFL 105 F1": {
+      "muzzleSpeed": 1500.0
+    },
+    "OFPH 105 F1": {
+      "muzzleSpeed": 700.0
+    }
+  },
+  "105 mm JSW": {
+    "M416": {
+      "muzzleSpeed": 732.0
+    },
+    "Type 75": {
+      "muzzleSpeed": 760.0
+    },
+    "Type 91": {
+      "muzzleSpeed": 1150.0
+    },
+    "Type 93": {
+      "muzzleSpeed": 1501.0
+    }
+  },
+  "105 mm KM68A1": {
+    "K274": {
+      "muzzleSpeed": 1495.0
+    },
+    "M393A2": {
+      "muzzleSpeed": 732.0
+    },
+    "M416": {
+      "muzzleSpeed": 732.0
+    },
+    "M456A1": {
+      "muzzleSpeed": 1173.0
+    }
+  },
+  "105 mm L74": {
+    "Shell L35": {
+      "muzzleSpeed": 720.0
+    },
+    "rökgr m/61": {
+      "muzzleSpeed": 330.0
+    },
+    "slpprj m/66": {
+      "muzzleSpeed": 1450.0
+    },
+    "slpprj m/80": {
+      "muzzleSpeed": 1455.0
+    },
+    "slpprj m/90s": {
+      "muzzleSpeed": 1455.0
+    },
+    "slsgr m/61A": {
+      "muzzleSpeed": 680.0
+    }
+  },
+  "105 mm M2A1": {
+    "M1 shell": {
+      "muzzleSpeed": 472.0
+    },
+    "M67 shot": {
+      "muzzleSpeed": 381.0
+    }
+  },
+  "105 mm M4": {
+    "M1 shell": {
+      "muzzleSpeed": 472.0
+    },
+    "M67 shot": {
+      "muzzleSpeed": 381.0
+    }
+  },
+  "105 mm M68": {
+    "M393A2": {
+      "muzzleSpeed": 732.0
+    },
+    "M416": {
+      "muzzleSpeed": 732.0
+    },
+    "M456": {
+      "muzzleSpeed": 1174.0
+    },
+    "M728": {
+      "muzzleSpeed": 1426.0
+    }
+  },
+  "105 mm M68A1": {
+    "M393A2": {
+      "muzzleSpeed": 732.0
+    },
+    "M456A2": {
+      "muzzleSpeed": 1174.0
+    },
+    "M774": {
+      "muzzleSpeed": 1509.0
+    },
+    "M833": {
+      "muzzleSpeed": 1485.0
+    },
+    "M900": {
+      "muzzleSpeed": 1505.0
+    }
+  },
+  "105 mm M68A1E8": {
+    "M393A3": {
+      "muzzleSpeed": 720.0
+    },
+    "M456A2": {
+      "muzzleSpeed": 1174.0
+    },
+    "M900": {
+      "muzzleSpeed": 1505.0
+    }
+  },
+  "105 mm M68E1": {
+    "M393A2": {
+      "muzzleSpeed": 732.0
+    },
+    "M416": {
+      "muzzleSpeed": 732.0
+    },
+    "M456A2": {
+      "muzzleSpeed": 1174.0
+    },
+    "M735": {
+      "muzzleSpeed": 1501.0
+    },
+    "M774": {
+      "muzzleSpeed": 1509.0
+    }
+  },
+  "105 mm Modele F2": {
+    "O-FUM-PH-105 F3": {
+      "muzzleSpeed": 800.0
+    },
+    "OCC 105 F3": {
+      "muzzleSpeed": 1120.0
+    },
+    "OE 105 F3": {
+      "muzzleSpeed": 800.0
+    },
+    "OFL 105 F3": {
+      "muzzleSpeed": 1400.0
+    }
+  },
+  "105 mm Sharir": {
+    "M111": {
+      "muzzleSpeed": 1455.0
+    },
+    "M152": {
+      "muzzleSpeed": 1174.0
+    },
+    "M156": {
+      "muzzleSpeed": 731.0
+    },
+    "M413": {
+      "muzzleSpeed": 1455.0
+    },
+    "M416": {
+      "muzzleSpeed": 732.0
+    }
+  },
+  "105 mm Typhoon": {
+    "Type 91": {
+      "muzzleSpeed": 1150.0
+    },
+    "Type 93": {
+      "muzzleSpeed": 1501.0
+    }
+  },
+  "105 mm ZPL94": {
+    "DTW2-105": {
+      "muzzleSpeed": 1530.0
+    },
+    "M393A2": {
+      "muzzleSpeed": 732.0
+    },
+    "M456A2": {
+      "muzzleSpeed": 1174.0
+    }
+  },
+  "105mm T5E1": {
+    "T13": {
+      "muzzleSpeed": 900.0
+    },
+    "T29E3": {
+      "muzzleSpeed": 1128.0
+    },
+    "T30E1": {
+      "muzzleSpeed": 945.0
+    },
+    "T32": {
+      "muzzleSpeed": 914.0
+    }
+  },
+  "105mm XM35": {
+    "M393A2": {
+      "muzzleSpeed": 732.0
+    },
+    "M416": {
+      "muzzleSpeed": 732.0
+    },
+    "M456A2": {
+      "muzzleSpeed": 1174.0
+    },
+    "M900": {
+      "muzzleSpeed": 1505.0
+    }
+  },
+  "106 mm M40A1C": {
+    "M344A1": {
+      "muzzleSpeed": 503.0
+    },
+    "M361A1": {
+      "muzzleSpeed": 498.0
+    }
+  },
+  "107 mm ZIS-6": {
+    "B-420": {
+      "muzzleSpeed": 800.0
+    },
+    "OF-420": {
+      "muzzleSpeed": 720.0
+    }
+  },
+  "114mm Psv.H/18": {
+    "akr 32/41": {
+      "muzzleSpeed": 350.0
+    },
+    "hkr 42/C": {
+      "muzzleSpeed": 357.0
+    }
+  },
+  "115 mm D-68": {
+    "3BK15M": {
+      "muzzleSpeed": 1060.0
+    },
+    "3BM6": {
+      "muzzleSpeed": 1680.0
+    },
+    "3OF18": {
+      "muzzleSpeed": 750.0
+    }
+  },
+  "115 mm U-5TS": {
+    "3BK15M": {
+      "muzzleSpeed": 1060.0
+    },
+    "3BK4": {
+      "muzzleSpeed": 950.0
+    },
+    "3BM28": {
+      "muzzleSpeed": 1600.0
+    },
+    "3BM3": {
+      "muzzleSpeed": 1615.0
+    },
+    "3BM6": {
+      "muzzleSpeed": 1680.0
+    },
+    "3OF11": {
+      "muzzleSpeed": 905.0
+    },
+    "3OF27": {
+      "muzzleSpeed": 800.0
+    },
+    "9M117": {
+      "muzzleSpeed": 370.0
+    }
+  },
+  "12-Pounder Cannon": {
+    "Grapeshot": {
+      "muzzleSpeed": 365.0
+    },
+    "Roundshot": {
+      "muzzleSpeed": 480.0
+    }
+  },
+  "12.7 mm DSHK": {
+    "12.7mm API-T": {
+      "muzzleSpeed": 820.0
+    }
+  },
+  "12.7 mm FN M3P": {
+    "API-T": {
+      "muzzleSpeed": 929.0
+    }
+  },
+  "12.7 mm KORD": {
+    "12.7mm API-T": {
+      "muzzleSpeed": 820.0
+    }
+  },
+  "12.7 mm L21A1": {
+    "API-T": {
+      "muzzleSpeed": 929.0
+    }
+  },
+  "12.7 mm M85": {
+    "API-T": {
+      "muzzleSpeed": 929.0
+    }
+  },
+  "12.7 mm M8C": {
+    "AI": {
+      "muzzleSpeed": 503.0
+    }
+  },
+  "12.7 mm NSVT": {
+    "12.7mm API-T": {
+      "muzzleSpeed": 820.0
+    }
+  },
+  "12.7 mm QJC88A": {
+    "12.7mm API-T": {
+      "muzzleSpeed": 820.0
+    }
+  },
+  "12.7 mm RMG": {
+    "API-T": {
+      "muzzleSpeed": 929.0
+    }
+  },
+  "12.7 mm Type 54": {
+    "12.7mm API-T": {
+      "muzzleSpeed": 820.0
+    }
+  },
+  "12.7 mm YAK-B": {
+    "12.7mm API-T": {
+      "muzzleSpeed": 825.0
+    }
+  },
+  "12.7 mm ksp 88": {
+    "API-T": {
+      "muzzleSpeed": 900.0
+    }
+  },
+  "12.7mm CRC F1": {
+    "API-T": {
+      "muzzleSpeed": 929.0
+    }
+  },
+  "12.8 cm KwK44": {
+    "PzGr 43": {
+      "muzzleSpeed": 940.0
+    },
+    "Sprgr. L/5": {
+      "muzzleSpeed": 750.0
+    }
+  },
+  "12.8 cm L/66": {
+    "PzGr 43": {
+      "muzzleSpeed": 1000.0
+    },
+    "Sprgr. L/5": {
+      "muzzleSpeed": 780.0
+    }
+  },
+  "12.8 cm PaK44": {
+    "PzGr 43": {
+      "muzzleSpeed": 940.0
+    },
+    "Sprgr. L/5": {
+      "muzzleSpeed": 750.0
+    }
+  },
+  "120 mm ASCALON": {
+    "HE F1": {
+      "muzzleSpeed": 1050.0
+    },
+    "SHARD": {
+      "muzzleSpeed": 1744.0
+    }
+  },
+  "120 mm CN08": {
+    "K276": {
+      "muzzleSpeed": 1700.0
+    },
+    "K277": {
+      "muzzleSpeed": 1130.0
+    },
+    "K279": {
+      "muzzleSpeed": 1760.0
+    },
+    "K280 PD": {
+      "muzzleSpeed": 1410.0
+    },
+    "K280 Proxy": {
+      "muzzleSpeed": 1410.0
+    },
+    "KSTAM-II": {
+      "muzzleSpeed": 1410.0
+    }
+  },
+  "120 mm CTG L/50": {
+    "DM12A1": {
+      "muzzleSpeed": 1190.0
+    },
+    "DM53": {
+      "muzzleSpeed": 1680.0
+    },
+    "XH 45": {
+      "muzzleSpeed": 1760.0
+    }
+  },
+  "120 mm Cannon Type 71": {
+    "120-HE": {
+      "muzzleSpeed": 940.0
+    },
+    "120-HEAT": {
+      "muzzleSpeed": 1000.0
+    },
+    "120-II": {
+      "muzzleSpeed": 1580.0
+    }
+  },
+  "120 mm FR-33/DM": {
+    "M829": {
+      "muzzleSpeed": 1670.0
+    },
+    "M830": {
+      "muzzleSpeed": 1140.0
+    }
+  },
+  "120 mm FR-34/DS": {
+    "DM12A1": {
+      "muzzleSpeed": 1140.0
+    },
+    "DM53": {
+      "muzzleSpeed": 1750.0
+    }
+  },
+  "120 mm GIAT CN120-26 F1": {
+    "M3M PD": {
+      "muzzleSpeed": 1120.0
+    },
+    "M3M PDD": {
+      "muzzleSpeed": 1120.0
+    },
+    "M3M VT": {
+      "muzzleSpeed": 1120.0
+    },
+    "OCC 120 G1": {
+      "muzzleSpeed": 1100.0
+    },
+    "OE 120 F1": {
+      "muzzleSpeed": 1050.0
+    },
+    "OEFC F1": {
+      "muzzleSpeed": 1410.0
+    },
+    "OFL 120 F1": {
+      "muzzleSpeed": 1790.0
+    },
+    "OFL 120 F2": {
+      "muzzleSpeed": 1740.0
+    },
+    "POLYNEGE": {
+      "muzzleSpeed": 600.0
+    },
+    "SHARD®": {
+      "muzzleSpeed": 1720.0
+    }
+  },
+  "120 mm IMI MG251": {
+    "DM12A1": {
+      "muzzleSpeed": 1078.0
+    },
+    "LAHAT": {
+      "muzzleSpeed": 285.0
+    },
+    "M338": {
+      "muzzleSpeed": 1680.0
+    },
+    "M339 PD": {
+      "muzzleSpeed": 900.0
+    },
+    "M339 PDD": {
+      "muzzleSpeed": 900.0
+    },
+    "M339 VT": {
+      "muzzleSpeed": 900.0
+    }
+  },
+  "120 mm KBM-2": {
+    "DM12": {
+      "muzzleSpeed": 1140.0
+    },
+    "DM31": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM53": {
+      "muzzleSpeed": 1680.0
+    },
+    "KONUS": {
+      "muzzleSpeed": 445.0
+    },
+    "M322": {
+      "muzzleSpeed": 1705.0
+    }
+  },
+  "120 mm KM256": {
+    "K276": {
+      "muzzleSpeed": 1700.0
+    },
+    "K277": {
+      "muzzleSpeed": 1130.0
+    }
+  },
+  "120 mm L11A5": {
+    "Shell L31A7": {
+      "muzzleSpeed": 670.0
+    },
+    "Shell L34A2": {
+      "muzzleSpeed": 670.0
+    },
+    "Shot L15A3": {
+      "muzzleSpeed": 1372.0
+    },
+    "Shot L23A1": {
+      "muzzleSpeed": 1535.0
+    }
+  },
+  "120 mm L30A1": {
+    "L26A1": {
+      "muzzleSpeed": 1650.0
+    },
+    "L27A1": {
+      "muzzleSpeed": 1590.0
+    },
+    "Shell L31A7": {
+      "muzzleSpeed": 670.0
+    },
+    "Shell L34A2": {
+      "muzzleSpeed": 670.0
+    }
+  },
+  "120 mm LLR L/47": {
+    "DM11 PD": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM11 PDD": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM11 VT": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM53": {
+      "muzzleSpeed": 1670.0
+    },
+    "XH 45": {
+      "muzzleSpeed": 1700.0
+    }
+  },
+  "120 mm M120": {
+    "M68 High Charge": {
+      "muzzleSpeed": 225.0
+    },
+    "M68 Low Charge": {
+      "muzzleSpeed": 125.0
+    },
+    "M68 Medium Charge": {
+      "muzzleSpeed": 172.0
+    },
+    "M934A1 High Charge": {
+      "muzzleSpeed": 225.0
+    },
+    "M934A1 Low Charge": {
+      "muzzleSpeed": 125.0
+    },
+    "M934A1 Medium Charge": {
+      "muzzleSpeed": 172.0
+    }
+  },
+  "120 mm M256": {
+    "KE-W": {
+      "muzzleSpeed": 1585.0
+    },
+    "M1028": {
+      "muzzleSpeed": 1410.0
+    },
+    "M1147 PD": {
+      "muzzleSpeed": 1150.0
+    },
+    "M1147 PDD": {
+      "muzzleSpeed": 1150.0
+    },
+    "M1147 VT": {
+      "muzzleSpeed": 1150.0
+    },
+    "M829": {
+      "muzzleSpeed": 1670.0
+    },
+    "M829A1": {
+      "muzzleSpeed": 1575.0
+    },
+    "M829A2": {
+      "muzzleSpeed": 1680.0
+    },
+    "M829A3": {
+      "muzzleSpeed": 1555.0
+    },
+    "M829A4": {
+      "muzzleSpeed": 1650.0
+    },
+    "M830": {
+      "muzzleSpeed": 1140.0
+    },
+    "M830A1 PD": {
+      "muzzleSpeed": 1410.0
+    },
+    "M830A1 Proxy": {
+      "muzzleSpeed": 1410.0
+    }
+  },
+  "120 mm OTO Breda 120/44": {
+    "CL3143": {
+      "muzzleSpeed": 1705.0
+    },
+    "DM12": {
+      "muzzleSpeed": 1140.0
+    },
+    "DM31": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM33": {
+      "muzzleSpeed": 1650.0
+    }
+  },
+  "120 mm RUAG L50": {
+    "OCC 120 G1": {
+      "muzzleSpeed": 1100.0
+    },
+    "OFL 120 G1": {
+      "muzzleSpeed": 1770.0
+    }
+  },
+  "120 mm Rh120 L/44": {
+    "DM12": {
+      "muzzleSpeed": 1140.0
+    },
+    "DM13": {
+      "muzzleSpeed": 1650.0
+    },
+    "DM33": {
+      "muzzleSpeed": 1650.0
+    },
+    "DM53A1": {
+      "muzzleSpeed": 1650.0
+    },
+    "IM HE-T PD": {
+      "muzzleSpeed": 1000.0
+    },
+    "IM HE-T PDD": {
+      "muzzleSpeed": 1000.0
+    },
+    "M1028": {
+      "muzzleSpeed": 1410.0
+    }
+  },
+  "120 mm Rh120 L/44 Autoloaded": {
+    "DM12": {
+      "muzzleSpeed": 1140.0
+    },
+    "DM13": {
+      "muzzleSpeed": 1650.0
+    }
+  },
+  "120 mm Rh120 L/55": {
+    "DM11 PD": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM11 PDD": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM11 VT": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM12": {
+      "muzzleSpeed": 1140.0
+    },
+    "DM43A1": {
+      "muzzleSpeed": 1810.0
+    },
+    "DM53": {
+      "muzzleSpeed": 1750.0
+    }
+  },
+  "120 mm Rh120 L/55 A1": {
+    "DM11 PD": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM11 PDD": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM11 VT": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM12A1": {
+      "muzzleSpeed": 1190.0
+    },
+    "DM53": {
+      "muzzleSpeed": 1750.0
+    },
+    "DM73": {
+      "muzzleSpeed": 1780.0
+    },
+    "DM83": {
+      "muzzleSpeed": 1780.0
+    }
+  },
+  "120 mm TKG": {
+    "JM12A1": {
+      "muzzleSpeed": 1140.0
+    },
+    "JM33": {
+      "muzzleSpeed": 1650.0
+    },
+    "Type 10": {
+      "muzzleSpeed": 1780.0
+    }
+  },
+  "120 mm Type 90 L/44": {
+    "JM12A1": {
+      "muzzleSpeed": 1140.0
+    },
+    "JM33": {
+      "muzzleSpeed": 1650.0
+    }
+  },
+  "120 mm XM360": {
+    "KE-W": {
+      "muzzleSpeed": 1585.0
+    },
+    "M1028": {
+      "muzzleSpeed": 1410.0
+    },
+    "M1147 PD": {
+      "muzzleSpeed": 1150.0
+    },
+    "M1147 PDD": {
+      "muzzleSpeed": 1150.0
+    },
+    "M1147 VT": {
+      "muzzleSpeed": 1150.0
+    },
+    "M829": {
+      "muzzleSpeed": 1670.0
+    },
+    "M829A1": {
+      "muzzleSpeed": 1575.0
+    },
+    "M829A2": {
+      "muzzleSpeed": 1680.0
+    },
+    "M829A3": {
+      "muzzleSpeed": 1555.0
+    },
+    "M829A4": {
+      "muzzleSpeed": 1650.0
+    },
+    "M830": {
+      "muzzleSpeed": 1140.0
+    },
+    "M830A1 PD": {
+      "muzzleSpeed": 1410.0
+    },
+    "M830A1 Proxy": {
+      "muzzleSpeed": 1410.0
+    }
+  },
+  "120 mm/45 3rd Year Type cannon": {
+    "Type 1 SAP": {
+      "muzzleSpeed": 850.0
+    }
+  },
+  "122 mm A-19C": {
+    "BR-471B": {
+      "muzzleSpeed": 795.0
+    },
+    "OF-471": {
+      "muzzleSpeed": 795.0
+    }
+  },
+  "122 mm D-25T": {
+    "BR-471": {
+      "muzzleSpeed": 795.0
+    },
+    "BR-471B": {
+      "muzzleSpeed": 795.0
+    },
+    "BR-471D": {
+      "muzzleSpeed": 795.0
+    },
+    "OF-471": {
+      "muzzleSpeed": 795.0
+    }
+  },
+  "122 mm D-30": {
+    "3BK-10": {
+      "muzzleSpeed": 726.0
+    },
+    "3OF56 High Charge": {
+      "muzzleSpeed": 690.0
+    },
+    "3OF56 Low Charge": {
+      "muzzleSpeed": 175.0
+    },
+    "3OF56 Medium Charge": {
+      "muzzleSpeed": 350.0
+    }
+  },
+  "122 mm D-30T": {
+    "BR-471": {
+      "muzzleSpeed": 795.0
+    },
+    "BR-471B": {
+      "muzzleSpeed": 795.0
+    },
+    "BR-471D": {
+      "muzzleSpeed": 795.0
+    },
+    "OF-471": {
+      "muzzleSpeed": 795.0
+    }
+  },
+  "122 mm Grad": {
+    "9M22/M21 HE-Frag": {
+      "muzzleSpeed": 180.0
+    }
+  },
+  "122 mm HW-T": {
+    "BP-460A": {
+      "muzzleSpeed": 336.0
+    },
+    "OF-462": {
+      "muzzleSpeed": 530.0
+    }
+  },
+  "122 mm M-62-T2S": {
+    "3BK-9": {
+      "muzzleSpeed": 920.0
+    },
+    "3BM-11": {
+      "muzzleSpeed": 1620.0
+    },
+    "BR-472": {
+      "muzzleSpeed": 950.0
+    },
+    "OF-472": {
+      "muzzleSpeed": 865.0
+    }
+  },
+  "125 mm 2A46": {
+    "3BK12M": {
+      "muzzleSpeed": 905.0
+    },
+    "3BM15": {
+      "muzzleSpeed": 1780.0
+    },
+    "3BM22": {
+      "muzzleSpeed": 1760.0
+    },
+    "3BM32": {
+      "muzzleSpeed": 1710.0
+    },
+    "3BM9": {
+      "muzzleSpeed": 1800.0
+    },
+    "3OF26": {
+      "muzzleSpeed": 850.0
+    }
+  },
+  "125 mm 2A46M": {
+    "3BK18M": {
+      "muzzleSpeed": 905.0
+    },
+    "3BM22": {
+      "muzzleSpeed": 1760.0
+    },
+    "3BM32": {
+      "muzzleSpeed": 1710.0
+    },
+    "3BM42": {
+      "muzzleSpeed": 1700.0
+    },
+    "3BM46": {
+      "muzzleSpeed": 1700.0
+    },
+    "3BM59": {
+      "muzzleSpeed": 1610.0
+    },
+    "3OF26": {
+      "muzzleSpeed": 850.0
+    },
+    "9M119": {
+      "muzzleSpeed": 445.0
+    },
+    "9M119M1": {
+      "muzzleSpeed": 445.0
+    }
+  },
+  "125 mm 2A46M-1": {
+    "3BK18M": {
+      "muzzleSpeed": 905.0
+    },
+    "3BM22": {
+      "muzzleSpeed": 1760.0
+    },
+    "3BM32": {
+      "muzzleSpeed": 1710.0
+    },
+    "3BM42": {
+      "muzzleSpeed": 1700.0
+    },
+    "3BM46": {
+      "muzzleSpeed": 1700.0
+    },
+    "3BM59": {
+      "muzzleSpeed": 1610.0
+    },
+    "3BM60": {
+      "muzzleSpeed": 1660.0
+    },
+    "3BM9": {
+      "muzzleSpeed": 1800.0
+    },
+    "3OF26": {
+      "muzzleSpeed": 850.0
+    },
+    "3OF26 PD": {
+      "muzzleSpeed": 850.0
+    },
+    "3OF26 VT": {
+      "muzzleSpeed": 850.0
+    },
+    "9M112": {
+      "muzzleSpeed": 400.0
+    },
+    "9M119": {
+      "muzzleSpeed": 445.0
+    },
+    "9M119M1": {
+      "muzzleSpeed": 445.0
+    },
+    "KOMBAT ATGM": {
+      "muzzleSpeed": 445.0
+    }
+  },
+  "125 mm 2A46M-5": {
+    "3BK18M": {
+      "muzzleSpeed": 905.0
+    },
+    "3BM42": {
+      "muzzleSpeed": 1700.0
+    },
+    "3BM46": {
+      "muzzleSpeed": 1700.0
+    },
+    "3BM59": {
+      "muzzleSpeed": 1610.0
+    },
+    "3BM60": {
+      "muzzleSpeed": 1660.0
+    },
+    "3BM69": {
+      "muzzleSpeed": 1696.0
+    },
+    "3BM70": {
+      "muzzleSpeed": 1750.0
+    },
+    "3OF26": {
+      "muzzleSpeed": 850.0
+    },
+    "3OF26 PD": {
+      "muzzleSpeed": 850.0
+    },
+    "3OF26 VT": {
+      "muzzleSpeed": 850.0
+    },
+    "3VOF128": {
+      "muzzleSpeed": 850.0
+    },
+    "9M119": {
+      "muzzleSpeed": 445.0
+    },
+    "9M119M1": {
+      "muzzleSpeed": 445.0
+    }
+  },
+  "125 mm 2A46MS": {
+    "3BK12M": {
+      "muzzleSpeed": 905.0
+    },
+    "3BM15": {
+      "muzzleSpeed": 1780.0
+    },
+    "3OF26": {
+      "muzzleSpeed": 850.0
+    },
+    "P99 TAPNA": {
+      "muzzleSpeed": 1690.0
+    },
+    "Ryś": {
+      "muzzleSpeed": 1690.0
+    }
+  },
+  "125 mm 2A46NK": {
+    "JoHEAT": {
+      "muzzleSpeed": 943.0
+    },
+    "KiAP": {
+      "muzzleSpeed": 1680.0
+    },
+    "UnHE": {
+      "muzzleSpeed": 878.0
+    }
+  },
+  "125 mm 2A47": {
+    "3BK12M": {
+      "muzzleSpeed": 905.0
+    },
+    "3BM22": {
+      "muzzleSpeed": 1760.0
+    },
+    "3OF26": {
+      "muzzleSpeed": 850.0
+    }
+  },
+  "125 mm 2A75-1": {
+    "3BK18M": {
+      "muzzleSpeed": 905.0
+    },
+    "3BM60": {
+      "muzzleSpeed": 1660.0
+    },
+    "3OF26": {
+      "muzzleSpeed": 850.0
+    },
+    "9M119M1": {
+      "muzzleSpeed": 445.0
+    }
+  },
+  "125 mm 2A82": {
+    "3BK18M": {
+      "muzzleSpeed": 905.0
+    },
+    "3BM69": {
+      "muzzleSpeed": 1696.0
+    },
+    "3OF26 PD": {
+      "muzzleSpeed": 850.0
+    },
+    "3OF26 VT": {
+      "muzzleSpeed": 850.0
+    },
+    "9M119M1": {
+      "muzzleSpeed": 445.0
+    }
+  },
+  "125 mm 2A82-1M": {
+    "3BK18M": {
+      "muzzleSpeed": 905.0
+    },
+    "3BM69": {
+      "muzzleSpeed": 1696.0
+    },
+    "3OF26": {
+      "muzzleSpeed": 850.0
+    },
+    "3OF26 PD": {
+      "muzzleSpeed": 850.0
+    },
+    "3OF26 VT": {
+      "muzzleSpeed": 850.0
+    },
+    "3UBK21": {
+      "muzzleSpeed": 450.0
+    },
+    "3VOF128": {
+      "muzzleSpeed": 850.0
+    }
+  },
+  "125 mm KBA-3": {
+    "3BK18M": {
+      "muzzleSpeed": 905.0
+    },
+    "3BM42": {
+      "muzzleSpeed": 1700.0
+    },
+    "3OF26": {
+      "muzzleSpeed": 850.0
+    },
+    "KOMBAT ATGM": {
+      "muzzleSpeed": 445.0
+    },
+    "P99 TAPNA": {
+      "muzzleSpeed": 1690.0
+    }
+  },
+  "125 mm Type 88C": {
+    "125-I": {
+      "muzzleSpeed": 1730.0
+    },
+    "125-II": {
+      "muzzleSpeed": 1740.0
+    },
+    "DTB-125": {
+      "muzzleSpeed": 850.0
+    },
+    "DTC10-125": {
+      "muzzleSpeed": 1760.0
+    },
+    "DTP-125": {
+      "muzzleSpeed": 905.0
+    }
+  },
+  "125 mm Type 99A": {
+    "DTB-125": {
+      "muzzleSpeed": 850.0
+    },
+    "DTB12-125 PD": {
+      "muzzleSpeed": 850.0
+    },
+    "DTB12-125 VT": {
+      "muzzleSpeed": 850.0
+    },
+    "DTC10-125": {
+      "muzzleSpeed": 1760.0
+    },
+    "DTC201": {
+      "muzzleSpeed": 1760.0
+    },
+    "DTP-125": {
+      "muzzleSpeed": 905.0
+    },
+    "GP125": {
+      "muzzleSpeed": 405.0
+    }
+  },
+  "125 mm ZPT98": {
+    "APFSDS/T": {
+      "muzzleSpeed": 1730.0
+    },
+    "DTB12-125 PD": {
+      "muzzleSpeed": 850.0
+    },
+    "DTB12-125 VT": {
+      "muzzleSpeed": 850.0
+    },
+    "DTP-125": {
+      "muzzleSpeed": 905.0
+    },
+    "GP125": {
+      "muzzleSpeed": 405.0
+    }
+  },
+  "125mm D-126": {
+    "BUR": {
+      "muzzleSpeed": 380.0
+    },
+    "Rubin": {
+      "muzzleSpeed": 550.0
+    }
+  },
+  "128 mm KwK44": {
+    "Pzgr. 57 TS": {
+      "muzzleSpeed": 1240.0
+    },
+    "Sprgr. L/5": {
+      "muzzleSpeed": 750.0
+    }
+  },
+  "130 mm Electro-Thermal MPX": {
+    "M1 ETC-HARP": {
+      "muzzleSpeed": 9824.0
+    },
+    "M2 ETC-HARE": {
+      "muzzleSpeed": 1815.0
+    },
+    "M3 ETC-HARA": {
+      "muzzleSpeed": 1990.0
+    },
+    "M4 ETC-HAMM": {
+      "muzzleSpeed": 315.0
+    },
+    "M5 ETC-HAAM-IR": {
+      "muzzleSpeed": 1250.0
+    }
+  },
+  "130 mm M-65": {
+    "BR-482B": {
+      "muzzleSpeed": 1000.0
+    },
+    "OF-482M": {
+      "muzzleSpeed": 900.0
+    }
+  },
+  "130 mm Rh130 L/51": {
+    "DM11 PD": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM11 PDD": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM11 VT": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM12A1": {
+      "muzzleSpeed": 1190.0
+    },
+    "DM13": {
+      "muzzleSpeed": 1848.0
+    },
+    "DM23": {
+      "muzzleSpeed": 1848.0
+    }
+  },
+  "130 mm S-70": {
+    "BR-482B": {
+      "muzzleSpeed": 900.0
+    },
+    "OF-482M": {
+      "muzzleSpeed": 900.0
+    }
+  },
+  "14.5 mm KPVT": {
+    "BST": {
+      "muzzleSpeed": 1000.0
+    }
+  },
+  "140 mm RUAG L/47": {
+    "140mm Pz Kan HL Pat MZ HEAT-MP PD": {
+      "muzzleSpeed": 1410.0
+    },
+    "140mm Pz Kan HL Pat MZ HEAT-MP VT": {
+      "muzzleSpeed": 1410.0
+    },
+    "140mm Pz Kan Pfeil Pat APFSDS": {
+      "muzzleSpeed": 1900.0
+    }
+  },
+  "140 mm XM291": {
+    "XM964": {
+      "muzzleSpeed": 1850.0
+    },
+    "XM965 PD": {
+      "muzzleSpeed": 1500.0
+    },
+    "XM965 Proxy": {
+      "muzzleSpeed": 1500.0
+    }
+  },
+  "150 mm Wgr.41 Spr rocket": {
+    "15 cm Wurfgranate 41 Spreng": {
+      "muzzleSpeed": 340.0
+    }
+  },
+  "152 mm 2A33": {
+    "3OF25": {
+      "muzzleSpeed": 665.0
+    },
+    "3OF25 Low Charge": {
+      "muzzleSpeed": 200.0
+    },
+    "3OF25 Medium Charge": {
+      "muzzleSpeed": 400.0
+    },
+    "3VO28": {
+      "muzzleSpeed": 200.0
+    },
+    "BR-540B": {
+      "muzzleSpeed": 600.0
+    },
+    "Smoke Shell": {
+      "muzzleSpeed": 200.0
+    }
+  },
+  "152 mm 2A73": {
+    "APFSDS": {
+      "muzzleSpeed": 1980.0
+    },
+    "Grifel-1": {
+      "muzzleSpeed": 1726.0
+    },
+    "Grifel-2": {
+      "muzzleSpeed": 1780.0
+    },
+    "Grifel-3": {
+      "muzzleSpeed": 850.0
+    }
+  },
+  "152 mm 2A83": {
+    "Grifel-1": {
+      "muzzleSpeed": 1726.0
+    },
+    "Grifel-2": {
+      "muzzleSpeed": 1780.0
+    },
+    "Grifel-3": {
+      "muzzleSpeed": 850.0
+    }
+  },
+  "152 mm LP-83": {
+    "APFSDS": {
+      "muzzleSpeed": 1980.0
+    },
+    "HE": {
+      "muzzleSpeed": 920.0
+    }
+  },
+  "152 mm M-10T": {
+    "OF-530": {
+      "muzzleSpeed": 530.0
+    },
+    "PB-35": {
+      "muzzleSpeed": 436.0
+    }
+  },
+  "152 mm M-69": {
+    "3BK20": {
+      "muzzleSpeed": 1000.0
+    },
+    "3BM16": {
+      "muzzleSpeed": 1750.0
+    },
+    "3OF31": {
+      "muzzleSpeed": 960.0
+    }
+  },
+  "152 mm M162": {
+    "M409A1": {
+      "muzzleSpeed": 682.0
+    },
+    "M625A1": {
+      "muzzleSpeed": 1410.0
+    },
+    "M657A2": {
+      "muzzleSpeed": 682.0
+    },
+    "MGM-51B Shillelagh": {
+      "muzzleSpeed": 286.0
+    }
+  },
+  "152 mm M81": {
+    "M409A1": {
+      "muzzleSpeed": 682.0
+    },
+    "M625A1": {
+      "muzzleSpeed": 1410.0
+    },
+    "M657A2": {
+      "muzzleSpeed": 682.0
+    },
+    "MGM-51B Shillelagh": {
+      "muzzleSpeed": 286.0
+    }
+  },
+  "152 mm ML-20S": {
+    "BR-540B": {
+      "muzzleSpeed": 600.0
+    },
+    "OF-540": {
+      "muzzleSpeed": 655.0
+    }
+  },
+  "152 mm XM150E5": {
+    "M409A1": {
+      "muzzleSpeed": 754.0
+    },
+    "MGM-51C": {
+      "muzzleSpeed": 286.0
+    },
+    "XM578E4": {
+      "muzzleSpeed": 1509.0
+    }
+  },
+  "152.4 mm 2A64": {
+    "3OF45 High Charge": {
+      "muzzleSpeed": 828.0
+    },
+    "3OF45 Low Charge": {
+      "muzzleSpeed": 207.0
+    },
+    "3OF45 Medium Charge": {
+      "muzzleSpeed": 414.0
+    },
+    "3OF45 Proxy High Charge": {
+      "muzzleSpeed": 828.0
+    },
+    "3OF45 Proxy Low Charge": {
+      "muzzleSpeed": 207.0
+    },
+    "3OF45 Proxy Medium Charge": {
+      "muzzleSpeed": 414.0
+    },
+    "3OF61 High Charge": {
+      "muzzleSpeed": 828.0
+    },
+    "3OF61 Low Charge": {
+      "muzzleSpeed": 207.0
+    },
+    "3OF61 Medium Charge": {
+      "muzzleSpeed": 414.0
+    },
+    "3OF61 Proxy High Charge": {
+      "muzzleSpeed": 828.0
+    },
+    "3OF61 Proxy Low Charge": {
+      "muzzleSpeed": 207.0
+    },
+    "3OF61 Proxy Medium Charge": {
+      "muzzleSpeed": 414.0
+    },
+    "3VO28 High Charge": {
+      "muzzleSpeed": 828.0
+    },
+    "3VO28 Low Charge": {
+      "muzzleSpeed": 207.0
+    },
+    "3VO28 Medium Charge": {
+      "muzzleSpeed": 414.0
+    }
+  },
+  "152.4 mm BL-8": {
+    "BR-540B": {
+      "muzzleSpeed": 850.0
+    },
+    "OF-540": {
+      "muzzleSpeed": 880.0
+    }
+  },
+  "152mm MTC-H": {
+    "OF-625": {
+      "muzzleSpeed": 530.0
+    },
+    "PB-3084": {
+      "muzzleSpeed": 436.0
+    }
+  },
+  "155 mm L62": {
+    "DM121 High Charge": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM121 Low Charge": {
+      "muzzleSpeed": 254.0
+    },
+    "DM121 Medium Charge": {
+      "muzzleSpeed": 506.0
+    },
+    "DM121 Proxy High Charge": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM121 Proxy Low Charge": {
+      "muzzleSpeed": 254.0
+    },
+    "DM121 Proxy Medium Charge": {
+      "muzzleSpeed": 506.0
+    },
+    "DM702A1": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM702A1 High Charge": {
+      "muzzleSpeed": 1015.0
+    },
+    "DM702A1 Low Charge": {
+      "muzzleSpeed": 254.0
+    },
+    "DM702A1 Medium Charge": {
+      "muzzleSpeed": 506.0
+    }
+  },
+  "155 mm M185": {
+    "M107 High Charge": {
+      "muzzleSpeed": 684.0
+    },
+    "M107 High Charge PF": {
+      "muzzleSpeed": 684.0
+    },
+    "M107 High Charge VT": {
+      "muzzleSpeed": 684.0
+    },
+    "M107 Low Charge": {
+      "muzzleSpeed": 171.0
+    },
+    "M107 Low Charge PF": {
+      "muzzleSpeed": 171.0
+    },
+    "M107 Low Charge VT": {
+      "muzzleSpeed": 171.0
+    },
+    "M107 Medium Charge": {
+      "muzzleSpeed": 342.0
+    },
+    "M107 Medium Charge PF": {
+      "muzzleSpeed": 342.0
+    },
+    "M107 Medium Charge VT": {
+      "muzzleSpeed": 342.0
+    },
+    "M110 High Charge": {
+      "muzzleSpeed": 684.0
+    },
+    "M110 Low Charge": {
+      "muzzleSpeed": 171.0
+    },
+    "M110 Medium Charge": {
+      "muzzleSpeed": 342.0
+    }
+  },
+  "155 mm M284": {
+    "M107 High Charge": {
+      "muzzleSpeed": 684.0
+    },
+    "M107 High Charge PF": {
+      "muzzleSpeed": 684.0
+    },
+    "M107 High Charge VT": {
+      "muzzleSpeed": 684.0
+    },
+    "M107 Low Charge": {
+      "muzzleSpeed": 171.0
+    },
+    "M107 Low Charge PF": {
+      "muzzleSpeed": 171.0
+    },
+    "M107 Low Charge VT": {
+      "muzzleSpeed": 171.0
+    },
+    "M107 Medium Charge": {
+      "muzzleSpeed": 342.0
+    },
+    "M107 Medium Charge PF": {
+      "muzzleSpeed": 342.0
+    },
+    "M107 Medium Charge VT": {
+      "muzzleSpeed": 342.0
+    },
+    "M110 High Charge": {
+      "muzzleSpeed": 684.0
+    },
+    "M110 Low Charge": {
+      "muzzleSpeed": 171.0
+    },
+    "M110 Medium Charge": {
+      "muzzleSpeed": 342.0
+    }
+  },
+  "15mm Automatisches IWS 2000": {
+    "APDS-FS": {
+      "muzzleSpeed": 1450.0
+    },
+    "HE-T": {
+      "muzzleSpeed": 1150.0
+    }
+  },
+  "183mm L4": {
+    "Shell L1": {
+      "muzzleSpeed": 716.0
+    }
+  },
+  "20 mm M168": {
+    "AP-I": {
+      "muzzleSpeed": 1030.0
+    },
+    "HEF-I": {
+      "muzzleSpeed": 1030.0
+    }
+  },
+  "20 mm NC 621": {
+    "AP": {
+      "muzzleSpeed": 1150.0
+    },
+    "HE-T": {
+      "muzzleSpeed": 1100.0
+    }
+  },
+  "20 mm Oerlikon KAA": {
+    "AP-T": {
+      "muzzleSpeed": 1150.0
+    },
+    "HE-T": {
+      "muzzleSpeed": 1100.0
+    }
+  },
+  "20 mm Rh202": {
+    "DM43": {
+      "muzzleSpeed": 1150.0
+    },
+    "DM51A2": {
+      "muzzleSpeed": 1045.0
+    },
+    "DM63": {
+      "muzzleSpeed": 1150.0
+    },
+    "HE-T": {
+      "muzzleSpeed": 1100.0
+    }
+  },
+  "20 mm Solothurn S-18/1000": {
+    "Paulina AP-T": {
+      "muzzleSpeed": 910.0
+    }
+  },
+  "203 mm 2A44": {
+    "2VG11": {
+      "muzzleSpeed": 864.0
+    },
+    "3VO15 High Charge": {
+      "muzzleSpeed": 775.0
+    },
+    "3VO15 Low Charge": {
+      "muzzleSpeed": 194.0
+    },
+    "3VO15 Medium Charge": {
+      "muzzleSpeed": 388.0
+    },
+    "3VOF34 High Charge": {
+      "muzzleSpeed": 775.0
+    },
+    "3VOF34 Low Charge": {
+      "muzzleSpeed": 194.0
+    },
+    "3VOF34 Medium Charge": {
+      "muzzleSpeed": 388.0
+    }
+  },
+  "20mm TNSh": {
+    "API HV": {
+      "muzzleSpeed": 892.0
+    },
+    "FI": {
+      "muzzleSpeed": 800.0
+    }
+  },
+  "212 mm RBU-6000": {
+    "RGB-60": {
+      "muzzleSpeed": 400.0
+    }
+  },
+  "227mm M269": {
+    "M26A1 High Charge": {
+      "muzzleSpeed": 420.0
+    },
+    "M26A1 Low Charge": {
+      "muzzleSpeed": 180.0
+    },
+    "M26A1 Medium Charge": {
+      "muzzleSpeed": 300.0
+    },
+    "M31A2 High Charge": {
+      "muzzleSpeed": 420.0
+    },
+    "M31A2 Low Charge": {
+      "muzzleSpeed": 180.0
+    },
+    "M31A2 Medium Charge": {
+      "muzzleSpeed": 300.0
+    }
+  },
+  "227mm M269 silly": {
+    "M26A1 High Charge": {
+      "muzzleSpeed": 420.0
+    },
+    "M26A1 Low Charge": {
+      "muzzleSpeed": 180.0
+    },
+    "M26A1 Medium Charge": {
+      "muzzleSpeed": 300.0
+    },
+    "M31A2 High Charge": {
+      "muzzleSpeed": 420.0
+    },
+    "M31A2 Low Charge": {
+      "muzzleSpeed": 180.0
+    },
+    "M31A2 Medium Charge": {
+      "muzzleSpeed": 300.0
+    }
+  },
+  "23 mm 2A14": {
+    "API-T": {
+      "muzzleSpeed": 710.0
+    },
+    "HEF-I": {
+      "muzzleSpeed": 710.0
+    }
+  },
+  "23 mm GSh-23L": {
+    "API-T": {
+      "muzzleSpeed": 970.0
+    },
+    "HEF-I": {
+      "muzzleSpeed": 980.0
+    }
+  },
+  "230 mm TOS-1A": {
+    "Blast fragmentation": {
+      "muzzleSpeed": 180.0
+    },
+    "Incendiary": {
+      "muzzleSpeed": 180.0
+    },
+    "Thermobaric": {
+      "muzzleSpeed": 180.0
+    }
+  },
+  "23mm 2A14M5": {
+    "API-T": {
+      "muzzleSpeed": 970.0
+    },
+    "HEF-I (P)": {
+      "muzzleSpeed": 1002.0
+    }
+  },
+  "25 mm DBTSU": {
+    "DBTSU AP": {
+      "muzzleSpeed": 970.0
+    },
+    "DBTSU HE": {
+      "muzzleSpeed": 980.0
+    }
+  },
+  "25 mm GAU-12U": {
+    "HEI": {
+      "muzzleSpeed": 1085.0
+    },
+    "HVAP": {
+      "muzzleSpeed": 1036.0
+    }
+  },
+  "25 mm M242": {
+    "M791": {
+      "muzzleSpeed": 1345.0
+    },
+    "M792": {
+      "muzzleSpeed": 1100.0
+    },
+    "M919": {
+      "muzzleSpeed": 1429.0
+    }
+  },
+  "25 mm Type 625": {
+    "APDS": {
+      "muzzleSpeed": 1345.0
+    },
+    "HE": {
+      "muzzleSpeed": 1100.0
+    },
+    "HE-VT": {
+      "muzzleSpeed": 1100.0
+    }
+  },
+  "2K4 Missile Launcher": {
+    "3M7": {
+      "muzzleSpeed": 228.0
+    }
+  },
+  "30 mm 2A38": {
+    "AP-T": {
+      "muzzleSpeed": 970.0
+    },
+    "HEF-I": {
+      "muzzleSpeed": 960.0
+    }
+  },
+  "30 mm 2A42": {
+    "3UBR11": {
+      "muzzleSpeed": 1260.0
+    },
+    "3UBR6": {
+      "muzzleSpeed": 970.0
+    },
+    "3UBR8": {
+      "muzzleSpeed": 1120.0
+    },
+    "3UOF8": {
+      "muzzleSpeed": 960.0
+    }
+  },
+  "30 mm 2A42 (AP)": {
+    "3UBR11": {
+      "muzzleSpeed": 1260.0
+    }
+  },
+  "30 mm 2A42 (HE)": {
+    "3UOF23 PD": {
+      "muzzleSpeed": 960.0
+    },
+    "3UOF23 VT": {
+      "muzzleSpeed": 960.0
+    }
+  },
+  "30 mm 2A72": {
+    "3UBR11": {
+      "muzzleSpeed": 1260.0
+    },
+    "3UBR8": {
+      "muzzleSpeed": 1120.0
+    },
+    "3UOF8": {
+      "muzzleSpeed": 960.0
+    }
+  },
+  "30 mm 2BS-T": {
+    "APDS": {
+      "muzzleSpeed": 1120.0
+    },
+    "HE": {
+      "muzzleSpeed": 960.0
+    }
+  },
+  "30 mm AG-30": {
+    "VOG-17M": {
+      "muzzleSpeed": 185.0
+    }
+  },
+  "30 mm AGS-17": {
+    "VOG-17M": {
+      "muzzleSpeed": 185.0
+    }
+  },
+  "30 mm GAU-8/A": {
+    "HVAP-T HEI": {
+      "muzzleSpeed": 980.0
+    }
+  },
+  "30 mm GSh-30-2K": {
+    "AP-T": {
+      "muzzleSpeed": 845.0
+    },
+    "HEF-I": {
+      "muzzleSpeed": 845.0
+    }
+  },
+  "30 mm HSS 831L": {
+    "APDS": {
+      "muzzleSpeed": 1175.0
+    },
+    "APHE": {
+      "muzzleSpeed": 1080.0
+    },
+    "HE": {
+      "muzzleSpeed": 1080.0
+    }
+  },
+  "30 mm L21A1": {
+    "APDS-L14": {
+      "muzzleSpeed": 1175.0
+    },
+    "APSE-L5": {
+      "muzzleSpeed": 1080.0
+    },
+    "HE-L13": {
+      "muzzleSpeed": 1080.0
+    }
+  },
+  "30 mm M230E-1": {
+    "M789": {
+      "muzzleSpeed": 801.0
+    }
+  },
+  "30 mm M230LF": {
+    "M789": {
+      "muzzleSpeed": 839.0
+    },
+    "XM1211": {
+      "muzzleSpeed": 839.0
+    }
+  },
+  "30 mm MK 30-2/ABM": {
+    "DM21 PDD": {
+      "muzzleSpeed": 1100.0
+    },
+    "DM21 VT": {
+      "muzzleSpeed": 1100.0
+    },
+    "DM33": {
+      "muzzleSpeed": 1405.0
+    },
+    "MK266": {
+      "muzzleSpeed": 1080.0
+    }
+  },
+  "30 mm Mk44": {
+    "MK238": {
+      "muzzleSpeed": 1080.0
+    },
+    "MK258": {
+      "muzzleSpeed": 1430.0
+    },
+    "Mk310 PD": {
+      "muzzleSpeed": 1235.0
+    },
+    "Mk310 VT": {
+      "muzzleSpeed": 1235.0
+    }
+  },
+  "30 mm TK VZ.95": {
+    "3UOF8": {
+      "muzzleSpeed": 960.0
+    },
+    "M929": {
+      "muzzleSpeed": 1260.0
+    }
+  },
+  "30 mm Type 625": {
+    "APDS": {
+      "muzzleSpeed": 1345.0
+    },
+    "HE": {
+      "muzzleSpeed": 1100.0
+    },
+    "HE PDD": {
+      "muzzleSpeed": 1100.0
+    },
+    "HE VT": {
+      "muzzleSpeed": 1100.0
+    }
+  },
+  "30 mm ZPL02": {
+    "DTC041A-30": {
+      "muzzleSpeed": 1190.0
+    },
+    "DTY02-30": {
+      "muzzleSpeed": 960.0
+    }
+  },
+  "30 mm ZPZ02": {
+    "DTC10-30": {
+      "muzzleSpeed": 1260.0
+    },
+    "HEF-I": {
+      "muzzleSpeed": 960.0
+    }
+  },
+  "30 mm ZTM-1": {
+    "3UBR11": {
+      "muzzleSpeed": 1260.0
+    },
+    "3UBR8": {
+      "muzzleSpeed": 1120.0
+    },
+    "3UOF8": {
+      "muzzleSpeed": 960.0
+    }
+  },
+  "30 mm ZTM-2": {
+    "3UBR11": {
+      "muzzleSpeed": 1260.0
+    },
+    "3UOF8": {
+      "muzzleSpeed": 960.0
+    }
+  },
+  "302 Anti-tank Missile": {
+    "302 Anti-tank Missile": {
+      "muzzleSpeed": 220.0
+    }
+  },
+  "35 mm Oerlikon KDA": {
+    "DM11A1": {
+      "muzzleSpeed": 1175.0
+    },
+    "DM13": {
+      "muzzleSpeed": 1175.0
+    },
+    "DM23": {
+      "muzzleSpeed": 1400.0
+    }
+  },
+  "35 mm Oerlikon KDE": {
+    "DM11A1": {
+      "muzzleSpeed": 1175.0
+    },
+    "DM23": {
+      "muzzleSpeed": 1400.0
+    }
+  },
+  "37 mm M3": {
+    "M51B1 shot": {
+      "muzzleSpeed": 883.0
+    },
+    "M63 shell": {
+      "muzzleSpeed": 792.0
+    }
+  },
+  "37 mm M5": {
+    "M51B1 shot": {
+      "muzzleSpeed": 883.0
+    },
+    "M63 shell": {
+      "muzzleSpeed": 792.0
+    }
+  },
+  "37 mm M6": {
+    "M51B1 shot": {
+      "muzzleSpeed": 883.0
+    },
+    "M63 shell": {
+      "muzzleSpeed": 792.0
+    }
+  },
+  "380 mm RW61": {
+    "38 cm R Spgr.4581": {
+      "muzzleSpeed": 150.0
+    }
+  },
+  "40 mm Akan m/70B": {
+    "3P-HV PD": {
+      "muzzleSpeed": 1100.0
+    },
+    "3P-HV PF": {
+      "muzzleSpeed": 1100.0
+    },
+    "3P-HV VT": {
+      "muzzleSpeed": 1100.0
+    },
+    "AP-T": {
+      "muzzleSpeed": 1025.0
+    },
+    "kulsgr m/90": {
+      "muzzleSpeed": 1015.0
+    },
+    "slpprj m/01": {
+      "muzzleSpeed": 1495.0
+    },
+    "slpprj m/90": {
+      "muzzleSpeed": 1465.0
+    },
+    "slsgr m/90": {
+      "muzzleSpeed": 988.0
+    }
+  },
+  "7.62 mm M1919": {
+    "AP": {
+      "muzzleSpeed": 800.0
+    }
+  }
+}
